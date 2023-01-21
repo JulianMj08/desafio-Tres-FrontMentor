@@ -48,6 +48,42 @@ body {
     color: hsl(215, 51%, 70%);
 }
 
+.card-actualizacion .precio {
+    font-size: 1.2rem;
+    color: hsl(178, 100%, 50%);
+    
+}
+
+.card-actualizacion .precio img {
+    height: 11px;
+}
+.card-actualizacion .fecha {
+    font-size: 1rem;
+    margin-left: 50px;
+    color: hsl(215, 51%, 70%);
+    
+}
+.card-actualizacion .fecha img {
+    height: 12px;
+}
+.credits {
+    display: flex;
+    margin-top: 13px;
+    border-top: solid 1px hsl(215, 51%, 70%);
+    padding: 22px 0 1px 0;
+    
+}
+ .credits img {
+    object-fit: cover;
+    width: 25px;
+    height: 25px;
+}
+.credits p {
+    margin-left: 10px;
+}
+.credits img {
+    margin-top: -6px;
+}
 
 
 
